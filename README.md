@@ -12,7 +12,7 @@ I really like learning about technology, and what I'm doing now hopefully will h
 - ⚡ Fun fact: enjoy playing games
   
 ### Tech Stack
-  <img alt="HTML" title="HTML" align="left" width="21px" src="https://www.duniailkom.com/wp-content/uploads/2015/11/HTML-featured-duniailkom.png" />
+  <img alt="HTML" title="HTML" align="left" width="21px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" />
   <img alt="HTML" title="HTML" align="left" width="21px" src="" />
   <img alt="HTML" title="HTML" align="left" width="21px" src="" />
   <img alt="HTML" title="HTML" align="left" width="21px" src="" />
