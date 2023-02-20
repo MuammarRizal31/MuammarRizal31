@@ -15,10 +15,11 @@ I really like learning about technology, and what I'm doing now hopefully will h
   <img alt="HTML" title="HTML" align="left" width="35px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" />
   <img alt="CSS" title="CSS" align="left" width="35px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />
   <img alt="JAVASCRIPT" title="JAVASCRIPT" align="left" width="35px" src="https://developerpitstop.com/wp-content/uploads/2022/01/Javascript_Logo.png?ezimgfmt=rs:0x0/rscb1/ngcb1/notWebP" />
+    <img alt="sass" title="sass" align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
   <img alt="REACT" title="REACT" align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
   <img alt="node js" title="node js" align="left" width="35px" src="https://www.ruhidesain.com/wp-content/uploads/2017/10/nodejs-logo-e1497443346889.png" />
   <img alt="java" title="java" align="left" width="35px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
-  <img alt="sass" title="sass" align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
+
    <br>
    <br>
      
