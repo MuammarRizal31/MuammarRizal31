@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi Everyone👋
+### I'm Rizal  
+Currently I am a student at Indraprasta University PGRI  
 
-<!--
-**MuammarRizal31/MuammarRizal31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I really like learning about technology, and what I'm doing now hopefully will have an effect on the future
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on freelance
+- 🌱 I’m currently learning about front-end and back-end web developers
+- 👯 I’m looking to collaborate on to anyone
+- 💬 Ask me about web development
+- 📫 How to reach me: muammarrizal2002@gmail.com
+- ⚡ Fun fact: enjoy playing games
