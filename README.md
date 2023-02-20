@@ -31,7 +31,6 @@ I really like learning about technology, and what I'm doing now hopefully will h
 </a>
 </p>
 <br>
-<br>
   
 ### Sosials Media
   - Instagram : <a href="https://www.instagram.com/mmr_rizal/"> @mmr_rizal </a>
