@@ -1,5 +1,5 @@
 # Hi Everyone👋
-### I'm Rizal  
+## I'm Muammar Rizal  
 Currently I am a student at Indraprasta University PGRI  
 
 I really like learning about technology, and what I'm doing now hopefully will have an effect on the future
@@ -11,6 +11,11 @@ I really like learning about technology, and what I'm doing now hopefully will h
 - 📫 How to reach me: muammarrizal2002@gmail.com
 - ⚡ Fun fact: enjoy playing games
   
+### Tech Stack
+  <img alt="HTML" title="HTML" align="left" width="21px" src="https://www.duniailkom.com/wp-content/uploads/2015/11/HTML-featured-duniailkom.png" />
+  <img alt="HTML" title="HTML" align="left" width="21px" src="" />
+  <img alt="HTML" title="HTML" align="left" width="21px" src="" />
+  <img alt="HTML" title="HTML" align="left" width="21px" src="" />
 <p align="left">
 <a href="https://github.com/MuammarRizal31">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuammarRizal31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
