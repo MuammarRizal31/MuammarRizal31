@@ -32,6 +32,7 @@ I really like learning about technology, and what I'm doing now hopefully will h
 </p>
 <br>
 <br>
+  
 ### Sosials Media
   - Instagram : <a href="https://www.instagram.com/mmr_rizal/"> @mmr_rizal </a>
   - Facebook : <a href="https://www.facebook.com/muamar.rizal.9"> @Muamar Rizal </a>
