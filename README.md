@@ -10,3 +10,10 @@ I really like learning about technology, and what I'm doing now hopefully will h
 - 💬 Ask me about web development
 - 📫 How to reach me: muammarrizal2002@gmail.com
 - ⚡ Fun fact: enjoy playing games
+  
+<p align="left">
+<a href="https://github.com/MuammarRizal31">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuammarRizal31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuammarRizal31&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
