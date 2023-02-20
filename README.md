@@ -12,10 +12,11 @@ I really like learning about technology, and what I'm doing now hopefully will h
 - ⚡ Fun fact: enjoy playing games
   
 ### Tech Stack
-  <img alt="HTML" title="HTML" align="left" width="21px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" />
+  <img alt="HTML" title="HTML" align="left" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" />
   <img alt="HTML" title="HTML" align="left" width="21px" src="" />
   <img alt="HTML" title="HTML" align="left" width="21px" src="" />
   <img alt="HTML" title="HTML" align="left" width="21px" src="" />
+    
 <p align="left">
 <a href="https://github.com/MuammarRizal31">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuammarRizal31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
