@@ -17,7 +17,9 @@ I really like learning about technology, and what I'm doing now hopefully will h
   <img alt="JAVASCRIPT" title="JAVASCRIPT" align="left" width="35px" src="https://developerpitstop.com/wp-content/uploads/2022/01/Javascript_Logo.png?ezimgfmt=rs:0x0/rscb1/ngcb1/notWebP" />
   <img alt="REACT" title="REACT" align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
   <img alt="node js" title="node js" align="left" width="35px" src="https://www.ruhidesain.com/wp-content/uploads/2017/10/nodejs-logo-e1497443346889.png" />
+  <img alt="node js" title="node js" align="left" width="35px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" />
     
+ ### Github Statistic
 <p align="left">
 <a href="https://github.com/MuammarRizal31">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuammarRizal31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
