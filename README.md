@@ -30,3 +30,10 @@ I really like learning about technology, and what I'm doing now hopefully will h
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuammarRizal31&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br>
+<br>
+### Sosials Media
+  - Instagram : <a href="https://www.instagram.com/mmr_rizal/"> @mmr_rizal </a>
+  - Facebook : <a href="https://www.facebook.com/muamar.rizal.9"> @Muamar Rizal </a>
+  - Twitter : <a href="https://twitter.com/MmrRizal"> @mmr_rizal </a>
+  - Linkedin : <a href="https://www.linkedin.com/in/muammar-rizal-492020255/"> @Muammar Rizal </a>
